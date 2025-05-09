@@ -44,7 +44,7 @@ An advanced, autonomous cybersecurity threat intelligence system that provides r
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Denzelxo/cybersecurity-threat-intelligence.git
+git clone https://github.com/yourusername/cybersecurity-threat-intelligence.git
 cd cybersecurity-threat-intelligence
 ```
 
@@ -57,6 +57,10 @@ python -m venv venv
 - Windows:
 ```bash
 .\venv\Scripts\activate
+```
+- Linux/Mac:
+```bash
+source venv/bin/activate
 ```
 
 4. **Install dependencies**
@@ -181,4 +185,4 @@ For support, please open an issue in the GitHub repository or contact the author
 
 ---
 
-*"Security is not a product, but a process."* - Bruce Schneier
+*"Security is not a product, but a process."* - Bruce Schneier 
